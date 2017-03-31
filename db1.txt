@@ -1,0 +1,16 @@
+Database:
+
+eLogin
+	uid
+	pwd
+eUsers
+	uid
+	fnam
+	lnam
+	gender
+	mob
+	pin
+	
+Email
+	inbox
+	sent
