@@ -1,8 +1,7 @@
 <html>
 	<head>
 		<title>
-		Email system
-
+		Email system - Edited by E.Jindal
 		</title>
 	</head>
 	<body bgcolor=cyan>
